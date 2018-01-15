@@ -10,6 +10,7 @@ namespace _ittes
     {
         static void Main(string[] args)
         {
+            int x=0;
         }
     }
 }
