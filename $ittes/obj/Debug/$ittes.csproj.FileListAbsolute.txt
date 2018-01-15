@@ -1,0 +1,6 @@
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\$ittes\$ittes\bin\Debug\$ittes.exe.config
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\$ittes\$ittes\bin\Debug\$ittes.exe
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\$ittes\$ittes\bin\Debug\$ittes.pdb
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\$ittes\$ittes\obj\Debug\$ittes.csprojResolveAssemblyReference.cache
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\$ittes\$ittes\obj\Debug\$ittes.exe
+c:\users\temp.deri.013\documents\visual studio 2015\Projects\$ittes\$ittes\obj\Debug\$ittes.pdb
